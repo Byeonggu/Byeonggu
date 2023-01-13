@@ -34,4 +34,5 @@ Byeonggu Github</br>
 <img src="https://img.shields.io/badge/GitHub-23231f?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
 </div>
