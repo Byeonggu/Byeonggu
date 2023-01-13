@@ -1,8 +1,8 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
-<style>
+
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
-</style>
+
 <div style="font-family: 'Dancing Script', cursive;">
 Der Vogel kämpft sich aus dem Ei. Das Ei ist die Welt. Wer geboren werden will, muß eine Welt zerstören. Der Vogel fliegt zu Gott. Der Gott heißt Abraxas.
 <div>
