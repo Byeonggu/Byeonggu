@@ -25,10 +25,14 @@ Byeonggu Github</br>
 
 <div>
 <img src="https://img.shields.io/badge/MariaDB-ecad9d?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 </div>
 <h2>Etc</h2>
 
 <div>
 <img src="https://img.shields.io/badge/Ubuntu-c7bd42?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/GitHub-23231f?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Git-#F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
 </div>
