@@ -24,7 +24,7 @@ Byeonggu Github
 <h2>Database</h2>
 <hr>
 <div>
-<img src="https://img.shields.io/badge/MaruaDB-ecad9d?style=flat-square&logo=MaruaDB&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/MariaDB-ecad9d?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp
 </div>
 <h2>Etc</h2>
 <hr>
