@@ -12,7 +12,7 @@ Byeonggu Github</br>
 <h2>Frontend Framework</h2>
 
 <div>
-<img src="https://img.shields.io/badge/Nodejs-5d4d00?style=flat-square&logo=Nodejs&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Nodejs-5d4d00?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/HTML5-5d4dc5?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/CSS3-a24dc5?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
 </div>
