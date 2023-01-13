@@ -6,7 +6,7 @@ Byeonggu Github
 <h2>Language</h2>
 <hr>
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white" style="float:left;"/>
-<img src="https://img.shields.io/badge/JavaScript-9ad200?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-9ad200?style=flat-square&logo=JavaScript&logoColor=white" style="float:left;"/>
 <h2>Frontend Framework</h2>
 <hr>
 <img src="https://img.shields.io/badge/Nodejs-5d4d00?style=flat-square&logo=Nodejs&logoColor=white"/></a>&nbsp
